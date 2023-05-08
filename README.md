@@ -2,7 +2,7 @@
 
 # Project goals
 This is a simple console game!
-The game is a part of educational project on **SoftUni** course and implemented as a challenge.
+The game is a part of my educational project in **SoftUni** course and implemented as a challenge.
 
 ![game_logo](pictures/img_1.png)
 
